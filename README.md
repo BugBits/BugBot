@@ -1,0 +1,2 @@
+# BugBot
+Our first project
